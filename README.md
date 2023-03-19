@@ -1,15 +1,10 @@
-# example
+# Flutter Neumorphic
 
-A new Flutter project.
+A new Flutter Design Challege project.
 
 ## Getting Started
+![Simulator Screen Shot - iPhone 13 Pro Max - 2023-03-20 at 01 45 45](https://user-images.githubusercontent.com/48884069/226206116-c9d5924b-c391-464e-b9a5-cf8de1e7bac9.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
